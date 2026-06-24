@@ -20,13 +20,10 @@
 ## ⚡ SERVICES
 
 - Discord Quest Service
-- Discord Nitro
-- Server Boost
-- Discord Quest VIP
 - Custom Discord Bot
 - Custom Web Panel
 - Automation Tools
-- Private Projects
+- All About Discord Service
 
 ---
 
